@@ -1,0 +1,1 @@
+# This is javascript code for Beginner
